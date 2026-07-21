@@ -67,11 +67,6 @@ This project showcases practical NLP skills including text cleaning, tokenizatio
 
 Clone the repository:
 
-```bash
-git clone https://github.com/morris-mosomi/nlp-text-preprocessing.git
-cd nlp-text-preprocessing
-```
-
 Install the required libraries:
 
 ```bash
