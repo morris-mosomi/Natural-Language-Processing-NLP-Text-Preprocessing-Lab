@@ -1,4 +1,4 @@
-# 📝 Natural Language Processing (NLP) Text Preprocessing Lab
+# Natural Language Processing (NLP) Text Preprocessing Lab
 
 ## Overview
 
