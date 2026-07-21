@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a complete Natural Language Processing (NLP) preprocessing pipeline using Python. The notebook applies several text preprocessing techniques to hotel reviews before performing sentiment analysis and evaluating the effectiveness of each preprocessing step.
+This project demonstrates a complete Natural Language Processing (NLP) preprocessing pipeline using Python. The notebook applies several text preprocessing techniques to hotel reviews, then performs sentiment analysis and evaluates the effectiveness of each preprocessing step.
 
 This project showcases practical NLP skills including text cleaning, tokenization, lemmatization, n-gram generation, and sentiment analysis using NLTK.
 
@@ -112,9 +112,6 @@ This project demonstrates how NLP preprocessing improves text quality by reducin
 ## Author
 
 **Morris Mosomi**
-
-- GitHub: https://github.com/morris-mosomi
-- LinkedIn: https://www.linkedin.com/in/morris-mosomi
 
 ---
 
